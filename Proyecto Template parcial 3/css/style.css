@@ -1,3 +1,163 @@
+.icon1 {
+    position: absolute;
+    width: 52px;
+    height: 52px;
+    left: 650px;
+    margin-top: -10px;
+}
+.barra{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.barra1{
+    color: #007FFF;
+    margin-left: -1005px;
+    position: absolute;
+}
+.barra2{
+    color: #007FFF;
+    position: absolute;
+    margin-left: -680px;
+}
+.barra3{
+    color: #007FFF;
+    position: absolute;
+    margin-left: 709px;
+}
+.barra4{
+    color: #007FFF;
+    position: absolute;
+    margin-left: 1035px;
+}
+.tituloss{
+    justify-content: center;
+    display: flex;
+    margin-top: 100px;
+}
+.titulo0{
+    margin-left: 70px;
+}
+.titulos{
+    color: #007FFF;
+    margin-left: 150px;
+    margin-top: -49px;
+}
+.logos{
+    display: flex;
+}
+.logosss{
+    display: flex;
+    margin-top: 20px;
+}
+.logito1{
+    margin-left: 40em;
+}
+.logito2{
+    margin-left: 20px;
+}
+.logito3{
+    margin-left: 20px;
+}
+.imagenes{
+    display: flex;
+    margin-top: 100px;
+}
+.imagen1{
+    margin-left: 146px;
+    width: 520px;
+    height: 505px;
+}
+.imagen2{
+    margin-left: 45px;
+    width: 520px;
+    height: 737px;
+}
+.imagenes2{
+    display: flex;
+}
+.imagen3{
+    margin-left: 146px;
+    margin-top: -172px;
+    width: 520px;
+    height: 667px;
+}
+.imagen4{
+    margin-left: 45px;
+    margin-top: 60px;
+    width: 520px;
+    height: 435px;
+}
+.barritaamarillita2 button{
+    background-color: #FFE300;
+    border-color: #FFE300;
+    border-radius: 200px;
+    width: 105px;
+}
+.barritaamarillita2{
+    margin-top: -180px;
+    margin-left: 65px;
+}
+.barritaamarilla button{
+    margin-left: 65px;
+    background-color: #FFE300;
+    border-color: #FFE300;
+    border-radius: 200px;
+    width: 105px;
+}
+.barritaamarilla{
+    margin-top: -200px;
+}
+.texto1{
+    margin-left: 64px;
+    margin-top: 20px;
+    color: white;
+}
+.texto2{
+    margin-left: 64px;
+    margin-top: -10px;
+    color: white;
+}
+.texto3{
+    margin-left: 64px;
+    margin-top: -10px;
+    color: white;
+}
+.texto10{
+    margin-left: -455px;
+    margin-top: 610px;
+    color: white;
+}
+.texto20{
+    margin-left: -455px;
+    margin-top: -10px;
+    color: white;
+}
+.texto100{
+    margin-left: -455px;
+    margin-top: 330px;
+    color: white;
+}
+.texto200{
+    margin-left: -455px;
+    margin-top: -10px;
+    color: white;
+}
+.texto300{
+    margin-left: -455px;
+    margin-top: -10px;
+    color: white;
+}
+.texto10000{
+    margin-left: -455px;
+    margin-top: 360px;
+    color: white;
+}
+.texto20000{
+    margin-left: -455px;
+    margin-top: -10px;
+    color: white;
+}
 .titulo20{
     margin-left: 145px;
     margin-top: 100px; 
@@ -62,7 +222,7 @@
 .parrafos205{
     margin-top: -10px;
 }
-.container-logos000{
+.logos000{
     display: flex;
     margin-top: 100px;
 }
@@ -75,7 +235,7 @@
 .logos-dropbox{
     margin-left: 138px;
 }
-.container-azul{
+.letriya-azul{
     margin-left: 145px;
     margin-top: 100px;
 }
@@ -105,7 +265,6 @@
     margin-left: 485px;
     margin-top: -120px;
 }
-
 .final{
     margin-left: 145px;
     margin-top: 250px;
